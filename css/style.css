@@ -1,0 +1,16 @@
+.fa-sort-desc{top: 7px !important;}
+#native-table-shell{width: 700px; margin: 15px auto;}
+#jsonTable{border-collapse: collapse; font-family: 'Lato', sans-serif; width: 100%; border: solid 3px #D0D0D0;}
+#jsonTable, th, td{border: solid 1px #000000;}
+th, td{padding: 9px; border: solid 2px #787878;}
+td{text-align: left; font-size: 15px;}
+tr th{text-align: center; font-size: 25px; font-weight: bold; cursor: pointer; position: relative; background-color: #000066; color: #FFFFFF; -webkit-transition: all 0.3s; transition: all 0.3s;}
+tr th i.fa{position: absolute; top: 18px; left: 9px; margin-right: 5px; display: none; -webkit-transition: all 0.3s; transition: all 0.3s;}
+tr{-webkit-transition: all 0.2s; transition: all 0.2s; cursor: pointer;}
+#page-shell{text-align: center;}
+#page-shell a{text-decoration: none; color: #000000; padding-left: 7px; padding-right: 7px; font-family: 'Lato', sans-serif; font-size: 17px;}
+#page-shell{width: 300px; margin: 10px auto;}
+#prev, #next{font-size: 15px;}
+#seach-wrapper{margin-bottom: 35px;}
+.highlight{color: #FFFFFF;}
+.hide-buttons{display: none;}
